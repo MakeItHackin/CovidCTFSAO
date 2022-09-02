@@ -1,3 +1,11 @@
+# HACKER SUMMER CAMP SAO - COVID CTF 
+
+## PURCHASE A SAO:
+https://www.tindie.com/products/27771/
+
+## YOUTUBE TUTORIAL FOR SOLDERING ON THE BADGE CONNECTOR: 
+https://youtu.be/yRB6n9lTvRc?t=1582
+
 #### What is it?
 Whether you won or lost the Covid CTF at Hacker Summer Camp, show off your result with this SAO!
 
